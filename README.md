@@ -1,1 +1,1 @@
-# covid19-burden-sweden
+# covid19-prognosticfactors-sweden
