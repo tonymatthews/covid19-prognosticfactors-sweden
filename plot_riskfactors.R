@@ -1,5 +1,5 @@
 
-setwd("C:/Users/antmat/OneDrive/ki/projects/covid19-burden-sweden")
+setwd("C:/Users/antmat/OneDrive/ki/projects/covid19-prognosticfactors-sweden")
 
 library(readr)
 library(dplyr)
